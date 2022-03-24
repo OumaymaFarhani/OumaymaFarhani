@@ -3,7 +3,7 @@
 - 🔭  I’m currently studying at ESPRIT Higher School of Engineering
 - 🌱  I’m currently learning .NET, Django and MERN Stack : MongoDB, React, NodesJS and ExpressJs
 - 📫 How to reach me: oumayma.farhani@esprit.tn
-
+ <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 
 <h3 align="left">Languages and Tools:</h3>
