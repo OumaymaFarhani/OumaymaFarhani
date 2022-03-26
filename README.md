@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Oumayma Farhani</h1>
  <img align="right" alt="coding" width="400" src="https://votrepartenaireweb.com/wp-content/uploads/2020/08/Votre-Partenaire-Web-Marketing-Digital-agence-web-metz-luxembourg.gif">
  
-- 🔭  I’m currently studying at ESPRIT Higher School of Engineering
+- 🔭  I’m currently studying at ESPRIT Higher School of Engineering and I'm working on A MERN project
 - 🌱  I’m currently learning .NET, Django and MERN Stack : MongoDB, React, NodesJS and ExpressJs
 - 📫 How to reach me: oumayma.farhani@esprit.tn
 
