@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Oumayma Farhani</h1>
- <img align="right" alt="coding" width="400" src="https://votrepartenaireweb.com/wp-content/uploads/2020/08/Votre-Partenaire-Web-Marketing-Digital-agence-web-metz-luxembourg.gif">
+ <img align="right" alt="coding" width="400" src=https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
  
 - 🔭  I’m currently studying at ESPRIT Higher School of Engineering and I'm working on A MERN project
 - 🌱  I’m currently learning .NET, Django and MERN Stack : MongoDB, React, NodesJS and ExpressJs
