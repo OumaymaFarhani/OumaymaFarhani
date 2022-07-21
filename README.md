@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
 
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img  alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
  <h3 align="left">Hi there 👋, My name is Oumayma and I'm a software engineer from Tunisia. Thank You for taking the time to view my GitHub Profile 😄</h3>
 - 🔭  I’m currently studying at ESPRIT Higher School of Engineering.
 - 📫 How to reach me: oumayma.farhani@esprit.tn
