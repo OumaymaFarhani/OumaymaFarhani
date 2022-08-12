@@ -1,10 +1,10 @@
 <header>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
-<div>
+
  <h4 align="left"> Hi, My name is Oumayma and I'm a software engineer from Tunisia.Thank You for taking the time to view my GitHub Profile 😄<h4>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
-</div>
+
 - 🔭  I’m currently studying at ESPRIT Higher School of Engineering.
 - 📫 How to reach me: oumayma.farhani@esprit.tn
 
@@ -12,7 +12,7 @@
 <p align="leftt">
 <a href="https://www.linkedin.com/in/oumayma-farhani-4106ab195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumayma-farhani-4106ab195/" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
            
           
