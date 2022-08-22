@@ -1,7 +1,7 @@
 <header>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
-
+<div>
  <h4 align="left"> Hi, My name is Oumayma and I'm a software engineer from Tunisia.Thank You for taking the time to view my GitHub Profile 😄<h4>
 <img align="right" alt="coding" width="300" src="https://i2.wp.com/www.digisailor.com/assets/img/services-details/5.gif">
 
@@ -12,11 +12,12 @@
 <p align="leftt">
 <a href="https://www.linkedin.com/in/oumayma-farhani-4106ab195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumayma-farhani-4106ab195/" height="30" width="40" /></a>
 </p>
+</div>
 <h3 align="center">Languages and Tools:</h3>
 
            
           
-<p align="left"> 
+<p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
