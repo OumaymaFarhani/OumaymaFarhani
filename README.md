@@ -27,5 +27,5 @@
 
 
 <a  align="right" href="https://github.com/OumaymaFarhani/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=OumaymaFarhani">
+    <img align="right" src="https://komarev.com/ghpvc/?username=OumaymaFarhani">
 </a>
