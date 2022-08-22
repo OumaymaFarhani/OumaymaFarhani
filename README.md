@@ -2,7 +2,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
 <div>
- <h4 align="left"> Hi, My name is Oumayma and I'm a software engineer from Tunisia.Thank You for taking the time to view my GitHub Profile 😄<h4>
+
+ <h4 align="left"> Hi, My name is Oumayma and I'm a Software Enginner Student from Tunisia. Thank You for taking the time to view my GitHub Profile <h4>
 <img align="right" alt="coding" width="300" src="https://i2.wp.com/www.digisailor.com/assets/img/services-details/5.gif">
 
 - 🔭  I’m currently studying at ESPRIT Higher School of Engineering.
